@@ -1,0 +1,32 @@
+main{
+    background-color: rgb(54, 54, 41);
+}
+
+.container-main{
+    padding-bottom:10vh ;
+}
+
+.card-body a{
+    color:black;
+}
+
+.btn1{
+    text-align: center;
+    width: 60%;
+    padding: 15px 0;
+    background: orange;
+    color:white;
+    font-weight: bold;
+    font-size: 18px;
+    border:none;
+    border-radius: 15px;
+    transition: 1s all;
+    cursor:pointer;
+    display: block;
+    margin: 40px 0;
+    margin-left: 90px;
+}
+.btn1:hover{
+    transform: scale(1.1) ;
+    color: white;
+}

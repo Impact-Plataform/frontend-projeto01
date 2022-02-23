@@ -1,0 +1,46 @@
+.container-main{
+    background-color: rgb(139, 55, 55);
+    display: flex;
+    padding-bottom: 15vh;
+}
+
+.container-nav-space{
+    margin-left:60vw ;
+}
+
+.login-text{
+    margin-top:13vh;
+    margin-left: 20vw;
+}
+
+.login-text h1{
+    text-transform: uppercase;
+    font-size:3.5vw;
+    color:white;
+}
+
+.login-text a{
+    color: white;
+    font-size: 1vw;
+}
+
+.container-form{
+    margin-top:35vh;
+    margin-left:-12vw;
+}
+ .container-form input{
+     text-align: center;
+     font-size: 20px;
+     display: block;
+     margin-top:4vh;
+     border-radius: 10px;
+ }
+
+ .btn{
+     margin-top:3vh;
+ }
+
+.login-img{
+    margin-top: 10vh;
+    margin-left: 25vw;
+}
