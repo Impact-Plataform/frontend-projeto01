@@ -2,7 +2,7 @@
 
 ## Site Responsivo
 
-Ultilize os wireframes como exemplo para construir seu site exercendo os seguintes requisitos:
+Ultilize os wireframes da pasta `/frames-exemplo` como guia para construir seu site exercendo os seguintes requisitos:
 - HTML semântico
 - Estilização com css
 - Links internos e ou externos
